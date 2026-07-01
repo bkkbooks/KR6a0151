@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0151/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說舍衛國王十夢經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0147.xml
+    old_id: T02n0147
+hash: sha256:273900787bebed277823da32584f1b36676bba2b43b14d0e3db3899907582a4b
