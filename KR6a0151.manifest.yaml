@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0151_000.yaml, hash: 'sha256:273900787bebed277823da32584f1b36676bba2b43b14d0e3db3899907582a4b'}
-  - {seq: 1, filename: KR6a0151_001.yaml, hash: 'sha256:741318b824bd0e47287e66c9498dc067139efd618f30925ed234b32c3b66b46f'}
+  - {seq: 1, filename: KR6a0151_001.yaml, hash: 'sha256:b7b097efd0a4051b7739f1ea2bbd31f492078ec3cc1f953da0a72351b2bc18b0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0151_001.markers.yaml, hash: 'sha256:852de0d21219517ab8efba15df7d16fa527a616c2a3674e1757029de8699465f'}
+  - {seq: 0, role: markers, filename: assets/KR6a0151_000.markers.yaml, hash: 'sha256:a6af61d1b015e0868ff5b5ec17717723e5d2e2e71c775b498a8c35fb62efe9fc'}
+  - {seq: 1, role: markers, filename: assets/KR6a0151_001.markers.yaml, hash: 'sha256:06ad53f6d2d3b251a70f7de2854eefe229afd0db1d5ffe7614f137bdf9fb88fe'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說舍衛國王十夢經
   type: juan
   level: 1
-hash: sha256:323d21327008e32bd16baf52a039d29a1ade95eeefbcbc452f605dcff8458649
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8800d6dc87c73acb5df9f31494482771925a26f14a72b6b36b196a525b481ed6
