@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0151/v1
 canonical_location: https://kanripo.org/bkk/KR6a0151/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說舍衛國王十夢經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0151_000.yaml, hash: 'sha256:273900787bebed277823da32584f1b36676bba2b43b14d0e3db3899907582a4b'}
-  - {seq: 1, filename: KR6a0151_001.yaml, hash: 'sha256:b7b097efd0a4051b7739f1ea2bbd31f492078ec3cc1f953da0a72351b2bc18b0'}
+  - {seq: 1, filename: KR6a0151_001.yaml, hash: 'sha256:6afe28f4d462ac1e28d4993d015a51b4928c2728f87162d3d55b02435d18204e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0151_000.markers.yaml, hash: 'sha256:a6af61d1b015e0868ff5b5ec17717723e5d2e2e71c775b498a8c35fb62efe9fc'}
-  - {seq: 1, role: markers, filename: assets/KR6a0151_001.markers.yaml, hash: 'sha256:06ad53f6d2d3b251a70f7de2854eefe229afd0db1d5ffe7614f137bdf9fb88fe'}
+  - {seq: 1, role: markers, filename: assets/KR6a0151_001.markers.yaml, hash: 'sha256:de2f1190503073d5bfc503c8b2f47ab9d19f7c05947d4d35f69fb45235c18ff9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說舍衛國王十夢經
   type: juan
   level: 1
-hash: sha256:8800d6dc87c73acb5df9f31494482771925a26f14a72b6b36b196a525b481ed6
+hash: sha256:0f1fed70ccd9baf91a9241b75f6c53b0f9f3273054d94993e7d205b85bf07d30
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
